@@ -23,7 +23,7 @@
     "mocha": "^5.2.0",
     "moment": "^2.24.0",
     "ms": "^2.1.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "quick.db": "^7.0.0",
     "snekfetch": "^3.6.4",
     "to-time": "^1.0.2"
