@@ -16,7 +16,7 @@
     "dateformat": "^3.0.3",
     "discord-anti-spam": "^1.1.2",
     "discord.js": "^11.5.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs": "0.0.2",
     "hh-mm-ss": "^1.2.0",
     "jimp": "^0.16.2",
